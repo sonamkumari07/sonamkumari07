@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m @sonamkumari07**
 
-  Hi, I am Sonam Kumari. Welcome to my GitHub page! I'm currently pursuing a degree in Mechanical Engineering at IIT BHU Varanasi (MEC2024).
+  Hi, I am Sonam Kumari. Welcome to my GitHub page! I'm currently pursuing a degree in Mechanical Engineering at IIT BHU Varanasi (MEC'24).
    My passion for technology and engineering drives me to explore and innovate across various projects. Feel free to explore my repositories to see the work I've done!.
 - 👀 **I’m interested in** ...
   
